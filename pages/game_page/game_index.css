@@ -58,8 +58,8 @@ body{
 }
 
 .right_present_professional,
-.right_present_research,
-.right_present_inschool {
+.right_present_gamedesign,
+.right_present_research {
     position: absolute;
     top: 30px;
     left: 50px;
@@ -73,8 +73,8 @@ body{
 }
 
 .right_present_professional.active,
-.right_present_research.active,
-.right_present_inschool.active {
+.right_present_gamedesign.active,
+.right_present_research.active {
     display: block;
 }
 
